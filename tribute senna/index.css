@@ -1,0 +1,46 @@
+body{ background-color: #39aa;
+    
+}
+.principal img{
+    width: 300px;
+    height: 300px;
+}
+.principal{
+    margin-left: 40%;
+}
+.titulo p{
+    font-size: 21px;
+     font-weight: bold
+
+     
+
+}
+nav ul li{
+    margin: 20px;
+    font-size: 20px;
+    list-style: none;
+} 
+.principal h1{
+    color:yellow;
+}
+span{
+    color:green;
+}
+.principal h2{
+     font-size: 30px;
+     margin-left: 15px;
+     text-decoration: underline green;
+}
+.titulo a{
+    font-size: 25px;
+    color: green;
+    font-weight: 500;
+    text-decoration: none;
+    margin-left: 5%;
+}
+.box_1{
+    width: 300px;
+    height: 5px;
+    background-color:yellow;
+    margin-bottom: 3px;
+}
